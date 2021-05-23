@@ -1,42 +1,21 @@
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           <command> [<args>]
+# Study One
+Study One은 공부한 내용을 정리하고 자료의 형태로 만들어 제공하는 사이트입니다. 자신만의 노하우를 공유하며 지식을 더욱 단단히 하고 다양한 사람들과 소통할 수 있습니다.
 
-These are common Git commands used in various situations:
+## 콘텐츠 소개
+### :movie_camera: 동영상 강의 만들기
+Study One은 공부한 내용을 글뿐만 아니라 동영상으로 업로드 할 수 있습니다. 유튜브로 촬영한 동영상을 업로드하여 자신만의 강의를 업로드하세요!
 
-start a working area (see also: git help tutorial)
-   clone      Clone a repository into a new directory
-   init       Create an empty Git repository or reinitialize an existing one
+### :family: 다양한 사람들과의 소통
+Study One에선 많은 사람들이 다양한 주제를 공부하고 공유합니다. 배우고 싶은 내용에 관해 공유하고 소통해보세요.
 
-work on the current change (see also: git help everyday)
-   add        Add file contents to the index
-   mv         Move or rename a file, a directory, or a symlink
-   reset      Reset current HEAD to the specified state
-   rm         Remove files from the working tree and from the index
+### :speech_balloon: 채팅기능
+개인적으로 소통하고 싶은 사람들과 채팅을 할 수 있습니다. 채팅방을 만들고 소통해보세요
 
-examine the history and state (see also: git help revisions)
-   bisect     Use binary search to find the commit that introduced a bug
-   grep       Print lines matching a pattern
-   log        Show commit logs
-   show       Show various types of objects
-   status     Show the working tree status
+### :european_castle: 프로필 만들기
+Study One에서 지식을 열심히 공유했나요? 프로필을 만들어 자신에 대한 내용을 정리하세요. 잘 정리한 프로필은 기업제출, 자기어필 등의 용도로도 활용이 가능합니다. 
 
-grow, mark and tweak your common history
-   branch     List, create, or delete branches
-   checkout   Switch branches or restore working tree files
-   commit     Record changes to the repository
-   diff       Show changes between commits, commit and working tree, etc
-   merge      Join two or more development histories together
-   rebase     Reapply commits on top of another base tip
-   tag        Create, list, delete or verify a tag object signed with GPG
+## 주요 페이지
+### 페이지 사진 추가 예정
 
-collaborate (see also: git help workflows)
-   fetch      Download objects and refs from another repository
-   pull       Fetch from and integrate with another repository or a local branch
-   push       Update remote refs along with associated objects
-
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
+## 프로젝트 구성
+### 프로젝트 구성 추가 예정
