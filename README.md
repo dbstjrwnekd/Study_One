@@ -15,7 +15,9 @@ Study One에선 많은 사람들이 다양한 주제를 공부하고 공유합�
 Study One에서 지식을 열심히 공유했나요? 프로필을 만들어 자신에 대한 내용을 정리하세요. 잘 정리한 프로필은 기업제출, 자기어필 등의 용도로도 활용이 가능합니다. 
 
 ## 주요 페이지
-### 페이지 사진 추가 예정
+|[🔗 메인페이지](link-here)|[🔗 로그인페이지](link-here)|[🔗 프로젝트페이지](link-here)|[🔗 스터디페이지](link-here)|
+|:--:|:--:|:--:|:--:|
+|<img width='700' src='https://user-images.githubusercontent.com/34386511/119347240-3699bb80-bcd6-11eb-997d-215dbcca6a3b.png'>|<img width='700' src='https://user-images.githubusercontent.com/34386511/119347459-85475580-bcd6-11eb-97db-37ed18d3a1c2.png'>|<img width='700' src='https://user-images.githubusercontent.com/34386511/119347583-ab6cf580-bcd6-11eb-8d70-f195275a9a3f.png'>|<img width='700' src='https://user-images.githubusercontent.com/34386511/119349623-51b9fa80-bcd9-11eb-8812-80b29420052d.png'>|
 
 ## 프로젝트 구성
 ### 프로젝트 구성 추가 예정
