@@ -21,6 +21,6 @@ Study One에서 지식을 열심히 공유했나요? 프로필을 만들어 자�
 
 |[🔗 컨텐츠페이지](link-here)|[🔗 회원가입페이지](link-here)|[🔗 컨텐츠댓글기능](link-here)|[🔗 프로필페이지](link-here)|
 |:--:|:--:|:--:|:--:|
-|<img width='700' src='https://user-images.githubusercontent.com/34386511/120406251-635c6b80-c385-11eb-9dc7-9bc411d46b09.png'>|<img width='700' src='https://user-images.githubusercontent.com/34386511/120406341-90108300-c385-11eb-9062-b3a04ec05bbe.png'>|<img width='700' src='https://user-images.githubusercontent.com/34386511/120406396-b33b3280-c385-11eb-92e6-ee3f03a1fe2c.png'>|<img width='700' src='https://user-images.githubusercontent.com/34386511/120406396-b33b3280-c385-11eb-92e6-ee3f03a1fe2c.png'>|
+|<img width='700' src='https://user-images.githubusercontent.com/34386511/120406251-635c6b80-c385-11eb-9dc7-9bc411d46b09.png'>|<img width='700' src='https://user-images.githubusercontent.com/34386511/120923336-fccea900-c708-11eb-8ab0-bf8f29bc55c2.png'>|<img width='700' src='https://user-images.githubusercontent.com/34386511/120923363-225bb280-c709-11eb-8336-fe68d0ec2303.png'>|<img width='700' src='https://user-images.githubusercontent.com/34386511/120923399-4919e900-c709-11eb-9947-5d1b994d23d6.png'>|
 ## 프로젝트 구성
 ### 프로젝트 구성 추가 예정
